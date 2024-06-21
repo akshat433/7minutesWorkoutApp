@@ -20,11 +20,11 @@ The 7 Minutes Workout App is designed to provide users with a quick, efficient, 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/7minutes-workout-app.git
+    git clone https://github.com/akshat433/7minutesWorkoutApp.git
     ```
 2. Open the project in Android Studio:
     ```sh
-    cd 7minutes-workout-app
+    cd 7minutesWorkoutApp
     ```
 3. Build and run the project on an emulator or a physical device.
 
